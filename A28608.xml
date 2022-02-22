@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Animadvertions on the papists most wicked and bloody oath of secrecy given to Robert Bolron by William Ruston a Jesuit, for the murdering of kings, princes, and their people, and carrying on their devilish and hellish designs for subverting the Protestant religion in England and Ireland.</title>
+            <author>Bolron, Robert, fl. 1674-1680.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28608</idno>
+            <idno type="STC">Wing B3500</idno>
+            <idno type="STC">ESTC R27216</idno>
+            <idno type="EEBO-CITATION">09721937</idno>
+            <idno type="OCLC">ocm 09721937</idno>
+            <idno type="VID">44032</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28608)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44032)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1350:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Animadvertions on the papists most wicked and bloody oath of secrecy given to Robert Bolron by William Ruston a Jesuit, for the murdering of kings, princes, and their people, and carrying on their devilish and hellish designs for subverting the Protestant religion in England and Ireland.</title>
+                  <author>Bolron, Robert, fl. 1674-1680.</author>
+               </titleStmt>
+               <extent>1 sheet.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.B.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Popish Plot, 1678.</term>
+               <term>Catholics --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:44032:1" rendition="simple:additions"/>
+            <head>ANIMADVERTIONS ON THE Papiſts Moſt Wicked AND Bloody Oath of Secrecy Given to <hi>Robert Bolron</hi> by <hi>William Ruſton</hi> a Jeſuit, For the Murdering of <hi>Kings, Princes</hi> and their <hi>People,</hi> and car<g ref="char:EOLhyphen"/>rying on their <hi>Deviliſh</hi> and <hi>Helliſh Deſigns</hi> for Subverting the <hi>Proteſtant</hi> Religion in <hi>England</hi> and <hi>Ireland.</hi>
+            </head>
+            <div type="oath">
+               <opener>
+                  <hi>In the Name of the Father, and of the Son, and of the Holy Ghoſt;</hi> Amen.</opener>
+               <p>
+                  <hi>I Robert Bolron,</hi> being in the Preſence of Almighty <hi>God,</hi> the bleſſed <hi>Mary</hi> ever Virgin, the bleſſed <hi>Michael</hi> the Arch-Angel, the bleſſed St. <hi>John Baptiſt,</hi> the holy Apoſtles, St. <hi>Peter</hi> and St. <hi>Paul,</hi> and all the Saints in Heaven, and to you my Ghoſtly Father, do declare, and in my Heart believe the Pope, Chriſt's Vicar General, to be the true and only Head of Chriſt's Church here on Earth, and that by virtue of the Keyes of Binding and Looſing, given his Holineſs by our Saviour Chriſt, he hath Power to depoſe all Heretical Kings and Princes, and cauſe them to be Killed. Therefore, to the utmoſt of my Power, I will defend this Doctrine, and his Holineſſes Rights, againſt all Uſurpers whatever; eſpecially againſt the now pretended <hi>King of England,</hi> in regard that he hath broke his Vows with his Holineſſes Agents beyond Seas, and not performed his Promiſes in <hi>bringing into</hi> England <hi>the holy Roman Catholick Religion.</hi> I do renounce and diſown any Allegiance as due to the ſaid pretended King of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> or Obedience to any of his inferior Officers and Magiſtrates; but do believe the <hi>Pro<g ref="char:EOLhyphen"/>teſtant</hi> Doctrine to be Heretical and Damnable, and that all are Damn'd which do not forſake the ſame; and to the beſt of my Power will help his Holineſſes Agents here in <hi>England,</hi> to extirpate and root out the ſaid <hi>Proteſtant Doctrine,</hi> and to deſtroy the ſaid pretended King of <hi>England,</hi> and all ſuch of his Subjects as will not adhere to the holy <hi>See of Rome,</hi> and the Religion there profeſſed. I further do promiſe and declare, That I will keep Secret and Private, and not Divulge directly or indirectly, by Word, Writing or Circumſtance, what<g ref="char:EOLhyphen"/>ever ſhall be propoſed, given in Charge, or diſcovered to me by you my Ghoſtly Father, or any other engaged in the promoting of this pious and holy Deſign; and that I will be Active, and not Deſiſt from the carrying of it on: and that no hopes of Rewards, Thrcats or Puniſh<g ref="char:EOLhyphen"/>ments, ſhall make me Diſcover the reſt concerned in ſo pious a Work; and if Diſcovered, ſhall never confeſs any Acceſſaries, with my ſelf concerned in this Deſign. All which I do Swear by the Bleſſed Trinity, and by the Bleſſed Sacrament, which I now purpoſe to receive, to perform, and on my part, to keep inviolable; And do call all the Angels, and Saints in Heaven to witneſs my real Intention to keep this Oath. In Teſtimony whereof, I do Receive this moſt Holy and Bleſſed Sacrament of the Euchariſt.</p>
+            </div>
+            <div type="letter">
+               <head>A few Words to the <hi>Papiſts</hi> of <hi>England.</hi>
+               </head>
+               <p>O Ye <hi>Papiſts!</hi> your own Reaſon cannot but tell you, That every Word in this Oath is Hypocriſie, Perjury, Murder, Rebellion and Treaſon, both againſt God, the King and his People, and your own Souls, thus to call your damnable Plot a Holy and Pious deſign, to call Evil Good, and Good Evil, to put Darkneſs for Light, and
+<pb facs="tcp:44032:2"/>Light for Darkneſs; and all this for nothing but to ſatisfie a filthy Humour in you, in a blind Hope of a blind Reward, ye know not what your ſelves, a little Worldly preferment, a releaſe out of Purgatory, or a Pardon from the <hi>Pope,</hi> (a ſinful Wretch that cannot get Pardon of Chriſt for himſelf) a falſe Vicar, and a <hi>Judas</hi> Traytor to Chriſt in ſelling him for Money, in hiding his Commandments from People to maintain Mammon, and to gull the People by a few gawdy Shrines, Buildings and Pictures, juſt like the Heatheniſh Religion of <hi>Apollo</hi> at <hi>Delphos,</hi> or like <hi>Diana</hi> at <hi>Ephe<g ref="char:EOLhyphen"/>ſus.</hi> The Lord lighten your Darkneſs and open your Eyes, that ye may ſee the Truth and be ſaved, in turning from theſe Wayes of Hell, and from being thus blind<g ref="char:EOLhyphen"/>ed in Religion and miſ-led by thoſe Agents of the Devil, and his Vicar the Pope; for ſurely the Pope is the Devil's Vicar, (rather then Chriſt's Vicar) becauſe the Pope deludeth Souls, which is the Devil's buſineſs; conſider it well, and ye will find it ſo.</p>
+               <p>Why are ye ſo bewitched as not to read the Bible, but to believe Errors and Lyes?</p>
+               <p>Why do ye pin your Belief upon the Sleeves of your Prieſts, as to think all is true whatſoever they tell you, never looking into the Scriptures to ſee whether they ſpeak true or no?</p>
+               <p>If ye be Subjects to the Roman Emperor, then indeed the Pope of <hi>Rome</hi> is your Arch-Biſhop, otherwiſe not; for if ye be loyal Subjects to the King of <hi>England,</hi> then the chief Biſhop of <hi>England</hi> is your Arch-Biſhop, and not the Roman Pope. How can ye imagine that the <hi>Roman Emperors Arch-Biſhop</hi> (or <hi>Pope of Rome</hi>) ever had any right in <hi>England</hi> ſince the Departure of the Roman Emperors from the Govern<g ref="char:EOLhyphen"/>ment of <hi>England;</hi> or that <hi>Auſtin</hi> the Monk was not ſent on purpoſe to ſeduce the <hi>Saxon</hi> Kings then in <hi>England?</hi>
+               </p>
+               <p>How can ye prove that Images, Croſſes, Altars, or any work of mens Hands may lawfully be adored, worſhipped, or bowed towards?</p>
+               <p>How can ye prove there is a Purgatory after this Life, where Souls may be prayed out for Money?</p>
+               <p>And how can ye prove that either the Roman Pope, or any of his Prieſts are the true Miniſters of Chriſt, or have the Keys of binding and looſing, in regard they ob<g ref="char:EOLhyphen"/>tained their Offices by Siniſter means, only for Lucre of Preferment in this World? And how dare ye truſt that they or any of them can pardon your Sins?</p>
+               <p>How can ye prove that the words of Conſecration ſpoken by them, or any of them, can turn Bread and Wine, or Wafers, into the very Body and Blood of our Saviour Jeſus Chriſt, or that our Saviour did not ſpeak thoſe words in a Parable or Similtude, ſeeing it is written, <hi>Without a Parable ſpake he nothing?</hi>
+               </p>
+               <p>Do ye not know that your Prieſts have left out God's ſecond Commandment, both in your Maſs-Books and in your Catechiſms, and made two of the tenth to make up the number of the Ten Commandments? And is it not on purpoſe to delude you, and to make you Worſhip Images? And is not the Bible kept from you on purpoſe to delude your Souls from knowing the Truth?</p>
+               <p>How can ye prove that the Souls of St <hi>Peter,</hi> St <hi>Paul,</hi> or any of the Saints in Hea<g ref="char:EOLhyphen"/>ven can hear Peoples Prayers on Earth? or that there is any Interceſſor betwixt God and a Sinner but our Saviour himſelf?</p>
+               <p>How dare ye ſay that all People on Earth are Hereticks, but <hi>Papiſts?</hi> or that it is Meritorious to kill a Heretick?</p>
+               <p>O Repent, and be Converted, for we do aſſure you, that ye do Err greatly, not knowing the Scriptures nor the Precepts of God.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="text">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J.B.</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
